@@ -1,0 +1,6 @@
+{
+  "name": "두더지 잡기 학습 게임",
+  "description": "P2P 실시간 통신 연동을 지원하는 세련된 스타일의 학습형 두더지 잡기 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
